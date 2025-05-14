@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1747204512895,
+    "title": "Testing 6",
+    "description": "Testing",
+    "department": "MCA",
+    "image": "/uploads/1747204512885-L5.jpg.jpg",
+    "liveLink": "",
+    "status": "Completed"
+  },
+  {
+    "id": 1747204278631,
+    "title": "Testing 5",
+    "description": "testing 5",
+    "department": "MCA",
+    "image": "/uploads/1747204278615-photo_2021-07-25_03-46-56.jpg",
+    "liveLink": "",
+    "status": "Live"
+  },
+  {
+    "id": 1747203570292,
+    "title": "Testing",
+    "description": "Testing",
+    "department": "MCA",
+    "image": "/uploads/1747203570282-photo_2021-07-20_01-40-22.jpg",
+    "liveLink": "",
+    "status": "Live"
+  },
+  {
+    "id": 1747202782569,
+    "title": "First project",
+    "description": "Testing 1st project",
+    "department": "MCA",
+    "image": "/uploads/1747202782526-ak.jpg",
+    "liveLink": "",
+    "status": "InProgress"
+  },
+  {
+    "id": 1747202110128,
+    "title": "Second Project",
+    "description": "Testing Upload project and Project sections",
+    "department": "MCA",
+    "image": "/uploads/1747202109811-ak.jpg",
+    "liveLink": "",
+    "status": "Completed"
+  },
+  {
+    "id": 1747202053604,
+    "title": "first",
+    "description": "jj",
+    "department": "BCA",
+    "image": "/uploads/1747202053587-photo_2021-07-27_00-38-18.jpg",
+    "liveLink": "",
+    "status": "Live"
+  }
+]

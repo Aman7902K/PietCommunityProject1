@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1747205347266,
+    "name": "DesirArman",
+    "position": "Dev",
+    "department": "MCA",
+    "content": "Testing the Create Post feature on Chalk talk to see if backend worling properly do not touch the Server.js file no matter what happens.",
+    "contentImg": "/uploads/1747205347179-photo_2021-08-24_01-25-22.jpg",
+    "profileImg": "/uploads/1747205347242-photo_2021-08-21_01-39-58.jpg",
+    "liveLink": "",
+    "status": ""
+  },
+  {
+    "id": 1747204911618,
+    "name": "DesirArman",
+    "position": "Dev",
+    "department": "MCA",
+    "content": "Testign the crate post feature isk but its worlign",
+    "contentImg": "/uploads/1747204911543-photo_2021-08-08_02-54-02.jpg",
+    "profileImg": "/uploads/1747204911561-photo_2021-08-24_01-21-24.jpg",
+    "liveLink": "",
+    "status": ""
+  },
+  {
+    "id": 1747203712061,
+    "name": "DesirArman",
+    "position": "Dev",
+    "department": "mca",
+    "content": "Testing",
+    "contentImg": "/uploads/1747203711998-photo_2021-07-25_03-46-56.jpg",
+    "profileImg": "/uploads/1747203712058-photo_2021-07-25_03-46-56.jpg",
+    "liveLink": "",
+    "status": ""
+  },
+  {
+    "id": 1747203308452,
+    "name": "DesirArman",
+    "position": "Dev",
+    "department": "MCA",
+    "content": "Testing this feature",
+    "contentImg": "/uploads/1747203308382-photo_2021-08-14_07-09-01.jpg",
+    "profileImg": "/uploads/1747203308410-ak.jpg",
+    "liveLink": "",
+    "status": ""
+  }
+]
